@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![yvonnecheung github stats](https://github-readme-stats.vercel.app/api?username=yvonnecheung&count_private=true&show_icons=true&theme=radical)
+![yvonnecheung github stats](https://github-readme-stats.vercel.app/api?username=yvonnecheung&count_private=true&show_icons=true&theme=dracula)
+
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
+-  **Skills :** Vue, VueX, Vue-Router, JavaScript, CSS, ElementUI
+-  **Hobbies :** Basketball :basketball: & Music :headphones: & Fit :muscle:
+-  **Fact :** First solve the problem, then write the code :heart:
+-  **Contact me :** [yvonnecheung](mailto:xixixixiao@hotmail.com)
