@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Skills :** Vue, VueX, Vue-Router, JavaScript, CSS, ElementUI
--  **Hobbies :** Basketball :basketball: & Music :headphones: & Fit :muscle:
+-  **Hobbies :** Game :video_game: & Music :headphones: & Fit :dancer:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [YvonneCheung](mailto:xixixixiao@hotmail.com)
