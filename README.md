@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -  **Skills :** Vue, VueX, Vue-Router, JavaScript, CSS, ElementUI
 -  **Hobbies :** Basketball :basketball: & Music :headphones: & Fit :muscle:
 -  **Fact :** First solve the problem, then write the code :heart:
--  **Contact me :** [yvonnecheung](mailto:xixixixiao@hotmail.com)
+-  **Contact me :** [YvonneCheung](mailto:xixixixiao@hotmail.com)
