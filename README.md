@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Skills :** Vue, VueX, Vue-Router, JavaScript, CSS, ElementUI
 -  **Hobbies :** Game :video_game: & Music :headphones: & Fit :dancer:
 -  **Fact :** First solve the problem, then write the code :heart:
