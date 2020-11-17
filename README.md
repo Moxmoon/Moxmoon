@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About
 
--  **Skills :** Vue, VueX, Vue-Router, JavaScript, CSS, ElementUI
+-  **Skills :** Vue, Nodejs, JavaScript(ES6), CSS(Scss/Less/Stylus), ElementUI
 -  **Hobbies :** Game :video_game: & Music :headphones: & Fit :dancer:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [YvonneCheung](mailto:xixixixiao@hotmail.com)
