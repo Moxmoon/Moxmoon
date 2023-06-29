@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### About
 
--  **Skills :** Vue, React, Nodejs, 小程序, Uniapp, JavaScript, CSS(Scss/Less/Stylus), ElementUI, Antd
+-  **Skills :** Vue, React, Node.js, Next.js, Uniapp, JavaScript, CSS(Scss/Less/Stylus), TailwindCSS, ElementUI/Antd/ShadcnUI
 -  **Hobbies :** Game :video_game: & Music :headphones: & Fit :dancer:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Moxmoon](mailto:xixixixiao@hotmail.com)
